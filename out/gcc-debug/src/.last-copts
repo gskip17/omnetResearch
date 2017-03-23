@@ -1,0 +1,1 @@
+-DWITH_OSG -DWITH_TKENV -DHAVE_PCAP -DXMLPARSER=expat -DWITH_PARSIM -DWITH_NETBUILDER  -g -Wall   -isystem /Users/grantskipper/Documents/Code/omnetpp-5.0/tools/macosx/include -Wno-deprecated-register -fno-stack-protector   -I. -I/Users/grantskipper/Documents/Code/omnetpp-5.0/include
